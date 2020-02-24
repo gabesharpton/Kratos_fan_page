@@ -28,6 +28,9 @@ const Header = ({ siteTitle }) => (
         </Link>
       </h1>
     </div>
+    <div>
+      <h2>This is war!!</h2>
+    </div>
   </header>
 )
 
